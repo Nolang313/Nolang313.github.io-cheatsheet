@@ -1,11 +1,14 @@
 tr .header{
     background-color: darkslategray;
-    color: aquamarine;   
+    color: rgb(107, 204, 172);   
 
-} 
-
-table{
-    font-family: Bangers, 'Mono Space';
-    font-size: 12px;
-    
 }
+
+tr .cmdline{
+    background-color: cadetblue;
+}
+
+tr .css{
+    background-color: darkcyan;
+}
+
